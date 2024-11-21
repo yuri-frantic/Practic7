@@ -1,0 +1,3 @@
+C:/Users/Frantic.DMC/Matrix7/exe/build/CMakeFiles/MatrixApp.dir
+C:/Users/Frantic.DMC/Matrix7/exe/build/CMakeFiles/edit_cache.dir
+C:/Users/Frantic.DMC/Matrix7/exe/build/CMakeFiles/rebuild_cache.dir

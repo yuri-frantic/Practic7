@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Frantic.DMC/Matrix7/exe/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\MatrixApp.dir\\src\\test-shared-matrix.cpp.obj -c C:\\Users\\Frantic.DMC\\Matrix7\\exe\\src\\test-shared-matrix.cpp",
+  "file": "C:/Users/Frantic.DMC/Matrix7/exe/src/test-shared-matrix.cpp",
+  "output": "CMakeFiles/MatrixApp.dir/src/test-shared-matrix.cpp.obj"
+}
+]

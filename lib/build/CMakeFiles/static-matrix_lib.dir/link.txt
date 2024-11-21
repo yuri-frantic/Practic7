@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc static-matrix_lib.a "CMakeFiles/static-matrix_lib.dir/src/matrix.cpp.obj" "CMakeFiles/static-matrix_lib.dir/src/c/c_api.cpp.obj"
+C:\MinGW\bin\ranlib.exe static-matrix_lib.a

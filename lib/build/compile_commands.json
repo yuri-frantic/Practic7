@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/Frantic.DMC/Matrix7/lib/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -DMATH_DOUBLE_PREC_DEFINE -DMATH_STATIC_DEFINE @CMakeFiles/static-matrix_lib.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\static-matrix_lib.dir\\src\\matrix.cpp.obj -c C:\\Users\\Frantic.DMC\\Matrix7\\lib\\src\\matrix.cpp",
+  "file": "C:/Users/Frantic.DMC/Matrix7/lib/src/matrix.cpp",
+  "output": "CMakeFiles/static-matrix_lib.dir/src/matrix.cpp.obj"
+},
+{
+  "directory": "C:/Users/Frantic.DMC/Matrix7/lib/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -DMATH_DOUBLE_PREC_DEFINE -DMATH_STATIC_DEFINE @CMakeFiles/static-matrix_lib.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\static-matrix_lib.dir\\src\\c\\c_api.cpp.obj -c C:\\Users\\Frantic.DMC\\Matrix7\\lib\\src\\c\\c_api.cpp",
+  "file": "C:/Users/Frantic.DMC/Matrix7/lib/src/c/c_api.cpp",
+  "output": "CMakeFiles/static-matrix_lib.dir/src/c/c_api.cpp.obj"
+},
+{
+  "directory": "C:/Users/Frantic.DMC/Matrix7/lib/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -DMATH_DOUBLE_PREC_DEFINE -Dshared_matrix_lib_EXPORTS @CMakeFiles/shared-matrix_lib.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\shared-matrix_lib.dir\\src\\matrix.cpp.obj -c C:\\Users\\Frantic.DMC\\Matrix7\\lib\\src\\matrix.cpp",
+  "file": "C:/Users/Frantic.DMC/Matrix7/lib/src/matrix.cpp",
+  "output": "CMakeFiles/shared-matrix_lib.dir/src/matrix.cpp.obj"
+},
+{
+  "directory": "C:/Users/Frantic.DMC/Matrix7/lib/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -DMATH_DOUBLE_PREC_DEFINE -Dshared_matrix_lib_EXPORTS @CMakeFiles/shared-matrix_lib.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\shared-matrix_lib.dir\\src\\c\\c_api.cpp.obj -c C:\\Users\\Frantic.DMC\\Matrix7\\lib\\src\\c\\c_api.cpp",
+  "file": "C:/Users/Frantic.DMC/Matrix7/lib/src/c/c_api.cpp",
+  "output": "CMakeFiles/shared-matrix_lib.dir/src/c/c_api.cpp.obj"
+}
+]

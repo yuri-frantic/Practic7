@@ -1,0 +1,6 @@
+C:/Users/Frantic.DMC/MATRIX/build/CMakeFiles/static-matrix_lib.dir
+C:/Users/Frantic.DMC/MATRIX/build/CMakeFiles/shared-matrix_lib.dir
+C:/Users/Frantic.DMC/MATRIX/build/CMakeFiles/test-static-matrix.dir
+C:/Users/Frantic.DMC/MATRIX/build/CMakeFiles/test-shared-matrix.dir
+C:/Users/Frantic.DMC/MATRIX/build/CMakeFiles/edit_cache.dir
+C:/Users/Frantic.DMC/MATRIX/build/CMakeFiles/rebuild_cache.dir
